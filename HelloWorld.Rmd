@@ -1,0 +1,16 @@
+---
+title: "Hello World"
+author: "TexCaires"
+date: "2024-09-12"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file.
+
+***Hello World!!!***
+
+First assignment for the Data Science Specialization course lectured by John Hopkins University.
